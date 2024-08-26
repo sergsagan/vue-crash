@@ -1,11 +1,11 @@
 {
   "jobs": [
     {
-      "title": "Senior Vue Dev",
       "type": "Full-Time",
-      "location": "Boston, MA",
+      "title": "Senior Vue Developer",
       "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
-      "salary": "$90K - $100K",
+      "salary": "$80K - $90K",
+      "location": "Boston, MA",
       "company": {
         "name": "NewTek Solutions",
         "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
@@ -68,76 +68,6 @@
         "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
         "contactEmail": "contact@consecteturadipisicing.com",
         "contactPhone": "111-111-1111"
-      }
-    },
-    {
-      "id": "6",
-      "title": "Vue Native Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
-      "location": "Portland, OR",
-      "salary": "$100K - $110K",
-      "company": {
-        "name": "Port Solutions INC",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "000-000-0000"
-      }
-    },
-    {
-      "id": "bd96",
-      "type": "Full-Time",
-      "title": "ffdfdfdfd",
-      "description": "fdfg nnhnjjkjerererrtf. grggh",
-      "salary": "$70K - $80K",
-      "location": "Detroit",
-      "company": {
-        "name": "Never",
-        "description": "fffdgfgfgff",
-        "contactEmail": "test@mail.com",
-        "contactPhone": "123456789"
-      }
-    },
-    {
-      "id": "78d9",
-      "type": "Full-Time",
-      "title": "Front-End Developer",
-      "description": "gflnfgml;gmg;b kgnfjngmfgh;lf gknglf;g",
-      "salary": "$90K - $100K",
-      "location": "Chikago",
-      "company": {
-        "name": "Never",
-        "description": "ffgfdggfhgf",
-        "contactEmail": "test@gmail.com",
-        "contactPhone": "12344567"
-      }
-    },
-    {
-      "id": "6e99",
-      "type": "Full-Time",
-      "title": "dssd",
-      "description": "dsadsds",
-      "salary": "$60K - $70K",
-      "location": "sasasasa",
-      "company": {
-        "name": "Company",
-        "description": "xsxsx",
-        "contactEmail": "qwerty@gmail.com",
-        "contactPhone": "123456789"
-      }
-    },
-    {
-      "id": "d69a",
-      "type": "Full-Time",
-      "title": "Front-End Developer",
-      "description": "qwerty",
-      "salary": "$90K - $100K",
-      "location": "Austin, Texas",
-      "company": {
-        "name": "",
-        "description": "",
-        "contactEmail": "qwerty@mail.com",
-        "contactPhone": "+123 45 67 89"
       }
     }
   ]
